@@ -1,0 +1,9 @@
+.container {
+    display: grid;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(100, 105, 105);
+    margin-top: 80px;
+}
